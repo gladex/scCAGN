@@ -56,3 +56,7 @@ KNN.py:        KNN graph construction & Louvain clustering
 utils.py:      Data loading and graph tools
 utilss.py:     Cell-type DAG operations
 ```
+
+## Contact
+Have any questions or issues related to the repository, please contact: Dr. Binhua Tang (bh.tang@hhu.edu.cn) or Yingying Feng (fengyy@hhu.edu.cn).
+
