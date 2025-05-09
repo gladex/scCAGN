@@ -2,7 +2,7 @@
 *A self-supervised clustering method combining adversarial autoencoders with cross-attention-based graph convolutional networks (GCN) for cell type identification in scRNA-seq datasets.*
 
 ## Environment Configuration
-The code runs under **Python 3.9.20** and **Pyorch 2.3.1+cu121**. Create a PyTorch environment and install required packages, such as "numpy", "pandas", "scikit-learn", "scanpy" and "cudatoolkit".
+The code runs under **Python 3.9.20** and **Pytorch 2.3.1+cu121**. Create a PyTorch environment and install required packages, such as "numpy", "pandas", "scikit-learn", "scanpy" and "cudatoolkit".
 Please refer to requirements.txt for more details.
 
 ### Installation:
